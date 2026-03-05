@@ -36,8 +36,6 @@
             <version>${junit.version}</version>
             <scope>test</scope>
         </dependency>
-
-        <!-- JUnit 4 (если нужен) -->
         <dependency>
             <groupId>junit</groupId>
             <artifactId>junit</artifactId>
